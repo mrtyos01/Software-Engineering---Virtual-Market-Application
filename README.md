@@ -14,6 +14,6 @@ Presentation, Test Cases, and User Interface
 
 ## Team Members
 Morteza Yosefy,
-Michael Kebede Dereje
+Michael Kebede Dereje,
 Kibru Kuture, and
 Atiq Mayar
